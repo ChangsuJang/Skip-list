@@ -1,4 +1,9 @@
-# binary files
-benchmark
-skiplist
-unit_test_*
+# Binary files
+bench
+
+# c objects
+*.o
+
+# clangd
+compile_commands.json
+.cache
